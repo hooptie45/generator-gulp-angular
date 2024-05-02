@@ -38,7 +38,7 @@
     "chai-as-promised": "~5.1.0",
     "commander": "~2.8.1",
     "cross-spawn": "~2.0.0",
-    "ejs": "~2.3.4",
+    "ejs": "~3.1.10",
     "eslint": "~1.6.0",
     "istanbul": "~0.3.22",
     "js-beautify": "~1.5.10",
